@@ -1,2 +1,2 @@
-# PHP-Navision
-Simple PHP class to connect with navision and do basic actions
+# Navisionist
+Simpel PHP client to connect and use Microsoft Navision
